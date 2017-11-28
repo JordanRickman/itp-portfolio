@@ -1,0 +1,48 @@
+/* Blatantly stealing much of this color palette from Atom. */
+html {
+  background-color: #21252b; /* dark grey */
+  color: #abb2bf; /* off-white */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #56b6c2; /* light blue */
+  text-decoration: inherit;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:visited {
+  color: #c678dd; /* light purple */
+}
+
+a.main-link {
+  color: #98c379; /* light green */
+  font-weight: bold;
+}
+
+span.smaller {
+  font-size: 0.8em;
+}
+
+h1.header {
+  color: #d7dae0; /* brighter off-white */
+  font-size: 3em;
+}
+h3.subheader,h2.section-header {
+  color: #e06c75; /* red */
+}
+hr.section-rule {
+  border-color: #e06c75;
+}
+h3.item-header {
+  color: #d19a66; /* light orange */
+}
+
+p.intro {
+  font-size: 1.08em;
+}
+
+ul.extra-links-list {
+  font-weight: bold;
+}
