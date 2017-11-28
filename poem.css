@@ -1,0 +1,14 @@
+/* Blatantly stealing much of this color palette from Atom. */
+html {
+  background-color: #21252b; /* dark grey */
+  color: #d7dae0; /* brighter off-white */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.5em;
+}
+
+.title {
+  font-style: italic;
+  color: #abb2bf; /* off-white */
+  margin-bottom: 2em;
+  margin-top: 1.5em;
+}
