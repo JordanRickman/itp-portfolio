@@ -6,10 +6,8 @@ html,body,div {
   margin: 0;
 }
 
-.screen-wrapper {
-  position: relative;
-}
 .content-wrapper {
-  position: absolute;
-  margin: 20px 100px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 980px;
 }

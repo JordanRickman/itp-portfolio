@@ -33,10 +33,10 @@ h2.subheader {
   color: #d19a66; /* light orange */
   margin-bottom: 1em;
 }
-p.intro {
-  margin-bottom: 3em;
-  margin-top: 2em;
-  font-size: 1.08em;
+p.section-intro {
+  margin-bottom: 2em;
+  font-style: italic;
+  color: #d7dae0; /* brighter off-white */
 }
 h2.section-header {
   margin-top: 1em;
