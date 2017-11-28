@@ -31,18 +31,10 @@ h1.header {
 }
 h2.subheader {
   color: #d19a66; /* light orange */
-  margin-bottom: 1em;
-}
-p.section-intro {
-  margin-bottom: 2em;
-  font-style: italic;
-  color: #d7dae0; /* brighter off-white */
 }
 h2.section-header {
-  margin-top: 1em;
+  margin-top: 2em;
   margin-bottom: 0.3em;
-}
-h2.section-header {
   color: #e06c75; /* red */
 }
 hr.section-rule {
@@ -50,6 +42,11 @@ hr.section-rule {
 }
 h3 {
   font-size: 1.25em;
+}
+p.section-intro {
+  margin-bottom: 2em;
+  font-style: italic;
+  color: #d7dae0; /* brighter off-white */
 }
 h3.item-header {
   color: #d19a66; /* light orange */
@@ -64,6 +61,9 @@ h4+p {
   margin-top: 0.5em;
 }
 
+/*a.poem-link {
+  text-decoration: underline;
+}*/
 ul.extra-links-list {
   font-weight: bold;
 }
