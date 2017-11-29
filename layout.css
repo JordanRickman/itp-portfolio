@@ -9,5 +9,12 @@ html,body,div {
 .content-wrapper {
   margin-right: auto;
   margin-left: auto;
-  width: 980px;
+  max-width: 980px;
+}
+
+@media screen and (max-width:980px) {
+  .content-wrapper {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
 }
